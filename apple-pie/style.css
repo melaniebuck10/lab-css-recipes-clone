@@ -4,14 +4,15 @@ body {
   padding: 0 110px;
 }
 
-header {
-  background-image: url("images/soup.jpg")
+.header {
+  background-image: url ('./images/apple-pie.jpg');
   background-position: 0 0;
   width: 750px;
-  height: 400px;
+  height: 200px;
   padding: 50px;
   margin: 30px;
   background-size: cover;
+  background-repeat: no-repeat;
   position: relative;
   text-align: center;
 }
